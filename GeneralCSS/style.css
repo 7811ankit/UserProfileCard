@@ -1,0 +1,26 @@
+#first{
+    width: 400px;
+    height: 563px;
+    /* border: 2px solid wheat; */
+    text-align: center;
+    margin-left: 35%;
+
+}
+#second{
+    width: 400px;
+    height: 265px;
+    /* border: 1px solid red; */
+}
+img{
+    width: 100%;
+}
+#third{
+    width: 392px;
+    border: 4px solid whitesmoke;
+}
+#fourth {
+    width: 402px;
+    margin-top: 0;
+    color: white;
+    background-color: black;
+}
